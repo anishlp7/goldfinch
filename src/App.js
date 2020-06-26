@@ -15,9 +15,9 @@ function App() {
   return (
     <div className="App">
     <Switch>
-      <Route exact path="/goldfinch/" component={Home} />
-      <Route path="/goldfinch/dashboard" component={Dashboard} />
-      <Route path="/goldfinch/profile" component={Profile} />
+      <Route exact path="/" component={Home} />
+      <Route path="/dashboard" component={Dashboard} />
+      <Route path="/profile" component={Profile} />
     </Switch>
      
     </div>
