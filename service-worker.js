@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/goldfinch/precache-manifest.80a0153db25ede830255ff56984e3142.js"
+  "/goldfinch/precache-manifest.b8e97a8e0c056ec55e2260b0320265c2.js"
 );
 
 self.addEventListener('message', (event) => {
