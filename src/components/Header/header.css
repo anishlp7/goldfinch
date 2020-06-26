@@ -1,0 +1,30 @@
+.Header {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+    background-color: black;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    font-weight: 450;
+}
+
+.lftAlign{
+    margin-left: 15px;
+    padding: 0 9px 0 0;
+    color: #ebaf00;
+    text-decoration: none;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ebaf00;
+}
+  

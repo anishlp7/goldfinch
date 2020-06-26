@@ -1,0 +1,23 @@
+
+.dashboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100%;
+}
+
+.box1{
+    height: 40vh;
+    background-color: #ebaf00;
+    width: 50vh;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.box1 > h3 {
+    text-align: center;
+    color: floralwhite;
+    font-size: 30px;
+    margin: 120px 0 0 0 ;
+}

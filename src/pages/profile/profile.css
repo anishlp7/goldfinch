@@ -1,0 +1,94 @@
+.profile{
+    height: 75vh;
+    background-color: floralwhite;
+    margin: 50px 350px;
+ 
+}
+
+.nav1 > ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav1 > ul, .nav2 > ul {
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+.nav1 > ul > li {
+    margin: 0 10px 0 0;
+    background-color: #ebaf00;
+    color: floralwhite;
+    border-radius: 2px;
+    padding: 3px 10px;
+}
+
+.container{
+    height: 75vh;
+    width: 50vw;
+    border: 2px solid wheat;
+    background-color: white;
+
+}
+
+.subCont {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+fieldset{
+    color: #ebaf00;
+    border: 2px dotted black;
+    width: 40vw;
+    height: 15vh;
+    margin: 10px 0 0 0;
+    border-radius: 10px;
+
+}
+
+label{
+    color: black;
+    margin: 0 70px 0 0;
+}
+
+legend{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+
+.formAlign {
+    margin: 40px;
+}
+
+.ipDesn1, .seDesn{
+    padding: 8px 15px;
+    width: 200px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #ebaf00;
+    color: black;
+    font-weight: 450;
+    margin: 0px 0 9px 0px;
+}
+
+.seDesn{
+    width: 230px !important;
+}
+
+
+.btnSve{
+    color: floralwhite;
+    background-color: #ebaf00;
+    border: 0;
+    padding: 11px 0px;
+    margin: 5px;
+    width: 100px;
+    border-radius: 5px;
+}

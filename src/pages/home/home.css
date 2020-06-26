@@ -1,0 +1,89 @@
+.Home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+    background: url('./../../assets/bg.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+      
+}
+
+.leftHero {
+    width: 50%;
+    text-align: center;
+}
+
+
+.textContent > p{
+    margin: 5px;
+    font-size: 30px;
+    font-weight: 500;
+    color: floralwhite;
+}
+
+.textAlign {
+    font-size: 50px !important;
+}
+
+/* Right Side  */
+.rightHero{
+    width: 50%;
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: 5px solid aliceblue;
+    background-color: floralwhite;
+    border-radius: 20px;
+}
+
+.logo{
+    height: 70px;
+    background-color: aliceblue;
+}
+
+.formElem{
+    margin: 10px 30px;
+}
+
+.formElem > h4, .formcntr > h5 {
+    color: #ebaf00;
+    margin: 10px 0 10px 0;
+}
+
+.hdAlign {
+    font-size: 50px;
+    margin: 30px !important;
+    text-align: center;
+}
+
+
+.lbDesn {
+    margin: 5px 0px;
+}
+
+.ipDesn{
+    width: 350px;
+    height: 30px;
+    background-color: aliceblue;
+    border: 0;
+    margin: 5px 0 15px 0;
+    padding: 2px 0 2px 13px;
+    font-weight: bold;
+    color: #ebaf00;
+}
+
+.btnDesn{
+    float: right;
+    background-color: #ebaf00;
+    border: 0;
+    border: 0 solid white;
+    padding: 10px 15px 10px 15px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
