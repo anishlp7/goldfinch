@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/goldfinch/static/css/main.ea66e956.chunk.css",
+    "main.js": "/goldfinch/static/js/main.46966a55.chunk.js",
+    "main.js.map": "/goldfinch/static/js/main.46966a55.chunk.js.map",
+    "runtime-main.js": "/goldfinch/static/js/runtime-main.9a6c1973.js",
+    "runtime-main.js.map": "/goldfinch/static/js/runtime-main.9a6c1973.js.map",
+    "static/js/2.019d2262.chunk.js": "/goldfinch/static/js/2.019d2262.chunk.js",
+    "static/js/2.019d2262.chunk.js.map": "/goldfinch/static/js/2.019d2262.chunk.js.map",
+    "index.html": "/goldfinch/index.html",
+    "precache-manifest.80a0153db25ede830255ff56984e3142.js": "/goldfinch/precache-manifest.80a0153db25ede830255ff56984e3142.js",
+    "service-worker.js": "/goldfinch/service-worker.js",
+    "static/css/main.ea66e956.chunk.css.map": "/goldfinch/static/css/main.ea66e956.chunk.css.map",
+    "static/js/2.019d2262.chunk.js.LICENSE.txt": "/goldfinch/static/js/2.019d2262.chunk.js.LICENSE.txt",
+    "static/media/bell.svg": "/goldfinch/static/media/bell.0f3dedb4.svg",
+    "static/media/home.css": "/goldfinch/static/media/bg.038afd05.svg",
+    "static/media/heroImage.svg": "/goldfinch/static/media/heroImage.52b166c3.svg",
+    "static/media/logo.webp": "/goldfinch/static/media/logo.632d3a8d.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6c1973.js",
+    "static/js/2.019d2262.chunk.js",
+    "static/css/main.ea66e956.chunk.css",
+    "static/js/main.46966a55.chunk.js"
+  ]
+}
