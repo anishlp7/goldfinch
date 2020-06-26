@@ -13,8 +13,8 @@ const Header = () => (
         <div className="Header"  >
             <div className="left ">
                 <img className="lftAlign" src={logo}  alt="Logo" height="50px" width="150px" />
-                <NavLink to="/dashboard" className="lftAlign">Dashboard</NavLink>
-                <NavLink to="/profile" className="lftAlign">profile</NavLink>
+                <NavLink to="/goldfinch/dashboard" className="lftAlign">Dashboard</NavLink>
+                <NavLink to="/goldfinch/profile" className="lftAlign">profile</NavLink>
             </div>
            <div className="right">
                 <img className="lftAlign" src={bell} alt="Notification Bell" height="20px" />
