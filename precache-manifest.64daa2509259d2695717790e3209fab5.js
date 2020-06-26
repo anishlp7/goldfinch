@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e0667009ac7157da6b4c758e94a44dd",
+    "revision": "2971f9b326b78653685516c556fe3069",
     "url": "/goldfinch/index.html"
   },
   {
-    "revision": "38f9071b00e3b99e4322",
+    "revision": "89e0638df925809751f1",
     "url": "/goldfinch/static/css/main.ea66e956.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goldfinch/static/js/2.019d2262.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38f9071b00e3b99e4322",
-    "url": "/goldfinch/static/js/main.a6383003.chunk.js"
+    "revision": "89e0638df925809751f1",
+    "url": "/goldfinch/static/js/main.f9568427.chunk.js"
   },
   {
     "revision": "edabcf91ae31288c954f",

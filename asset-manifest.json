@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goldfinch/static/css/main.ea66e956.chunk.css",
-    "main.js": "/goldfinch/static/js/main.a6383003.chunk.js",
-    "main.js.map": "/goldfinch/static/js/main.a6383003.chunk.js.map",
+    "main.js": "/goldfinch/static/js/main.f9568427.chunk.js",
+    "main.js.map": "/goldfinch/static/js/main.f9568427.chunk.js.map",
     "runtime-main.js": "/goldfinch/static/js/runtime-main.9a6c1973.js",
     "runtime-main.js.map": "/goldfinch/static/js/runtime-main.9a6c1973.js.map",
     "static/js/2.019d2262.chunk.js": "/goldfinch/static/js/2.019d2262.chunk.js",
     "static/js/2.019d2262.chunk.js.map": "/goldfinch/static/js/2.019d2262.chunk.js.map",
     "index.html": "/goldfinch/index.html",
-    "precache-manifest.b8e97a8e0c056ec55e2260b0320265c2.js": "/goldfinch/precache-manifest.b8e97a8e0c056ec55e2260b0320265c2.js",
+    "precache-manifest.64daa2509259d2695717790e3209fab5.js": "/goldfinch/precache-manifest.64daa2509259d2695717790e3209fab5.js",
     "service-worker.js": "/goldfinch/service-worker.js",
     "static/css/main.ea66e956.chunk.css.map": "/goldfinch/static/css/main.ea66e956.chunk.css.map",
     "static/js/2.019d2262.chunk.js.LICENSE.txt": "/goldfinch/static/js/2.019d2262.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.9a6c1973.js",
     "static/js/2.019d2262.chunk.js",
     "static/css/main.ea66e956.chunk.css",
-    "static/js/main.a6383003.chunk.js"
+    "static/js/main.f9568427.chunk.js"
   ]
 }
